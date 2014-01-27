@@ -24,5 +24,6 @@ once again this is downloaded with
 run the tests like this (from demo)
 
 >istanbul cover spec/PlayerSpec.js
+
 >istanbul report cobertura
 
